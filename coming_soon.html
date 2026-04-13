@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sweepnews — Coming Soon</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=DM+Serif+Display&family=Noto+Sans+JP:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #F8F7F4;
+    --accent: #2D6A4F;
+    --accent-light: #D8F3DC;
+    --text: #1A1917;
+    --text2: #6B6760;
+    --text3: #A09D98;
+    --border: #E8E6E1;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Noto Sans JP', 'DM Sans', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(24px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+  }
+
+  .wrap {
+    text-align: center;
+    max-width: 520px;
+    width: 100%;
+  }
+
+  .logo {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 48px;
+    animation: fadeUp 0.5s ease both;
+  }
+  .logo-mark {
+    width: 44px; height: 44px;
+    background: var(--accent);
+    border-radius: 12px;
+    display: flex; align-items: center; justify-content: center;
+    color: white;
+    font-family: 'DM Serif Display', serif;
+    font-size: 22px;
+  }
+  .logo-name {
+    font-family: 'DM Serif Display', serif;
+    font-size: 26px;
+    color: var(--text);
+  }
+
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--accent-light);
+    color: var(--accent);
+    padding: 6px 14px;
+    border-radius: 100px;
+    font-size: 12px;
+    font-weight: 500;
+    margin-bottom: 28px;
+    animation: fadeUp 0.5s 0.1s ease both;
+  }
+  .badge-dot {
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+    animation: pulse 1.5s infinite;
+  }
+
+  h1 {
+    font-family: 'DM Serif Display', serif;
+    font-size: clamp(36px, 8vw, 60px);
+    line-height: 1.1;
+    margin-bottom: 20px;
+    letter-spacing: -1px;
+    animation: fadeUp 0.5s 0.15s ease both;
+  }
+  h1 em {
+    font-style: normal;
+    color: var(--accent);
+  }
+
+  .sub {
+    font-size: 16px;
+    color: var(--text2);
+    line-height: 1.7;
+    font-weight: 300;
+    margin-bottom: 48px;
+    animation: fadeUp 0.5s 0.2s ease both;
+  }
+
+  .form-wrap {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+    animation: fadeUp 0.5s 0.25s ease both;
+  }
+  .form-input {
+    flex: 1;
+    padding: 14px 18px;
+    border: 1.5px solid var(--border);
+    border-radius: 12px;
+    font-size: 14px;
+    font-family: 'Noto Sans JP', sans-serif;
+    background: white;
+    color: var(--text);
+    outline: none;
+    transition: all 0.2s;
+  }
+  .form-input:focus { border-color: var(--accent); }
+  .form-input::placeholder { color: var(--text3); }
+  .btn-submit {
+    padding: 14px 24px;
+    border-radius: 12px;
+    border: none;
+    background: var(--accent);
+    color: white;
+    font-size: 14px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s;
+    white-space: nowrap;
+  }
+  .btn-submit:hover { background: #245C43; transform: translateY(-1px); }
+
+  .form-note {
+    font-size: 12px;
+    color: var(--text3);
+    margin-bottom: 48px;
+    animation: fadeUp 0.5s 0.3s ease both;
+  }
+
+  .success {
+    display: none;
+    background: var(--accent-light);
+    color: var(--accent);
+    padding: 16px 24px;
+    border-radius: 12px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 48px;
+  }
+
+  .features {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    margin-bottom: 48px;
+    animation: fadeUp 0.5s 0.35s ease both;
+  }
+  .feature {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 20px 16px;
+    text-align: center;
+  }
+  .feature-icon { font-size: 24px; margin-bottom: 8px; }
+  .feature-name { font-size: 13px; font-weight: 500; margin-bottom: 4px; }
+  .feature-desc { font-size: 11px; color: var(--text3); line-height: 1.5; }
+
+  .footer-text {
+    font-size: 13px;
+    color: var(--text3);
+    animation: fadeUp 0.5s 0.4s ease both;
+  }
+  .footer-text a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  @media (max-width: 480px) {
+    .form-wrap { flex-direction: column; }
+    .features { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="logo">
+    <div class="logo-mark">S</div>
+    <div class="logo-name">Sweepnews</div>
+  </div>
+
+  <div class="badge">
+    <div class="badge-dot"></div>
+    開発中
+  </div>
+
+  <h1>あなただけの<br><em>ニュースレーダー</em></h1>
+
+  <p class="sub">
+    AIが業界の最新情報をくまなくスキャン。<br>
+    重要なニュースだけを、あなたの言葉で届けます。<br>
+    まもなくリリース予定。
+  </p>
+
+  <div class="form-wrap" id="form-wrap">
+    <input type="email" class="form-input" id="email-input" placeholder="メールアドレスを入力">
+    <button class="btn-submit" onclick="submitEmail()">通知を受け取る</button>
+  </div>
+
+  <div class="success" id="success-msg">
+    ✓ 登録完了！リリース時にお知らせします。
+  </div>
+
+  <p class="form-note">スパムは送りません。リリース時に1通だけお知らせします。</p>
+
+  <div class="features">
+    <div class="feature">
+      <div class="feature-icon">🎯</div>
+      <div class="feature-name">ジャンル特化</div>
+      <div class="feature-desc">追いたい分野だけ深く収集</div>
+    </div>
+    <div class="feature">
+      <div class="feature-icon">🧠</div>
+      <div class="feature-name">AI深掘り要約</div>
+      <div class="feature-desc">なぜ重要かまで解説</div>
+    </div>
+    <div class="feature">
+      <div class="feature-icon">✦</div>
+      <div class="feature-name">育てる体験</div>
+      <div class="feature-desc">使うほど自分好みに</div>
+    </div>
+  </div>
+
+  <p class="footer-text">
+    © 2026 Sweepnews ·
+    <a href="https://x.com/Brain_auto_ai" target="_blank">@Brain_auto_ai</a>
+    で開発過程を発信中
+  </p>
+
+</div>
+
+<script>
+function submitEmail() {
+  const email = document.getElementById('email-input').value;
+  if (!email || !email.includes('@')) {
+    alert('メールアドレスを正しく入力してください');
+    return;
+  }
+  document.getElementById('form-wrap').style.display = 'none';
+  document.getElementById('success-msg').style.display = 'block';
+  // TODO: 実際のメール登録APIに送信
+  console.log('登録:', email);
+}
+</script>
+</body>
+</html>
