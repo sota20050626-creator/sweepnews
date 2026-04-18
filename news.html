@@ -13,10 +13,10 @@
     .logo { font-family: 'DM Mono', monospace; font-size: 1rem; font-weight: 500; letter-spacing: 0.06em; color: #111; }
     .logo span { color: #10b981; }
     .header-date { font-size: 0.75rem; color: #999; font-family: 'DM Mono', monospace; }
-    .genre-bar { background: #fff; border-bottom: 1px solid #e8e8e8; overflow-x: auto; scrollbar-width: none; }
+    .genre-bar { background: #fff; border-bottom: 1px solid #e8e8e8; overflow-x: auto; scrollbar-width: none; position: relative; }
     .genre-bar::-webkit-scrollbar { display: none; }
-    .genre-tabs { max-width: 1100px; margin: 0 auto; display: flex; padding: 0 2rem; }
-    .genre-tab { padding: 0.7rem 1rem; font-size: 0.78rem; font-weight: 500; cursor: pointer; border: none; background: none; color: #888; white-space: nowrap; border-bottom: 2px solid transparent; transition: all 0.15s; font-family: 'Noto Sans JP', sans-serif; }
+    .genre-tabs { display: flex; padding: 0 2rem; width: max-content; min-width: 100%; }
+    .genre-tab { padding: 0.7rem 0.85rem; font-size: 0.75rem; font-weight: 500; cursor: pointer; border: none; background: none; color: #888; white-space: nowrap; border-bottom: 2px solid transparent; transition: all 0.15s; font-family: 'Noto Sans JP', sans-serif; }
     .genre-tab:hover { color: #333; }
     .genre-tab.active { color: #10b981; border-bottom-color: #10b981; }
     .stats-bar { max-width: 1100px; margin: 0 auto; padding: 1.2rem 2rem; display: flex; gap: 2rem; align-items: center; }
@@ -41,6 +41,8 @@
     .center-msg { text-align: center; padding: 5rem 2rem; color: #aaa; font-size: 0.85rem; }
     .spinner { display: inline-block; width: 18px; height: 18px; border: 2px solid #e8e8e8; border-top-color: #10b981; border-radius: 50%; animation: spin 0.8s linear infinite; margin-bottom: 0.8rem; }
     @keyframes spin { to { transform: rotate(360deg); } }
+    #topBtn { position: fixed; bottom: 2rem; right: 2rem; width: 40px; height: 40px; border-radius: 50%; background: #10b981; color: #fff; border: none; font-size: 1.1rem; cursor: pointer; display: none; align-items: center; justify-content: center; box-shadow: 0 2px 8px rgba(0,0,0,0.15); z-index: 200; }
+    #topBtn:hover { transform: translateY(-2px); }
     footer { border-top: 1px solid #e8e8e8; padding: 1.5rem 2rem; text-align: center; font-size: 0.68rem; color: #bbb; font-family: 'DM Mono', monospace; }
     @media (max-width: 600px) { .news-grid { grid-template-columns: 1fr; } .stats-bar { gap: 1rem; flex-wrap: wrap; } }
   </style>
@@ -65,6 +67,7 @@
   <div class="stat"><div class="stat-value" id="statGenres">—</div><div class="stat-label">ジャンル</div></div>
 </div>
 <main><div id="content"><div class="center-msg"><div class="spinner"></div><br>読み込み中...</div></div></main>
+<button id="topBtn" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</button>
 <footer>SWEEPNEWS — Powered by Claude API &amp; GitHub Actions — 毎朝6時 JST 自動更新</footer>
 <script>
   const GENRE_ORDER = ['ai_tech','business','finance','world_news','japan','science','health','environment','gaming_esports','entertainment','dev_tools','other'];
@@ -134,6 +137,7 @@
     });
     document.getElementById('content').innerHTML = '<div class="news-grid">' + allItems.map(card).join('') + '</div>';
   }
+  window.addEventListener("scroll", function() { var btn = document.getElementById("topBtn"); btn.style.display = window.scrollY > 300 ? "flex" : "none"; });
   load();
 </script>
 </body>
