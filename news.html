@@ -62,8 +62,6 @@
   <div class="stat-divider"></div>
   <div class="stat"><div class="stat-value" id="statSummarized">—</div><div class="stat-label">AI要約</div></div>
   <div class="stat-divider"></div>
-  <div class="stat"><div class="stat-value" id="statCost">—</div><div class="stat-label">本日のコスト</div></div>
-  <div class="stat-divider"></div>
   <div class="stat"><div class="stat-value" id="statGenres">—</div><div class="stat-label">ジャンル</div></div>
 </div>
 <main><div id="content"><div class="center-msg"><div class="spinner"></div><br>読み込み中...</div></div></main>
@@ -122,7 +120,7 @@
     allItems = data.items || [];
     document.getElementById('statTotal').textContent = (data.total_collected || 0).toLocaleString();
     document.getElementById('statSummarized').textContent = data.total_summarized || 0;
-    document.getElementById('statCost').textContent = data.cost_usd ? '$' + data.cost_usd.toFixed(3) : '—';
+
     document.getElementById('statGenres').textContent = Object.keys(data.genre_summary || {}).length;
     document.getElementById('statsBar').style.display = 'flex';
     const tabs = document.getElementById('genreTabs');
