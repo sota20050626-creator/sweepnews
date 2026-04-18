@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sweepnews — AI自動ニュース</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: #f7f7f5; color: #1a1a1a; font-family: 'Noto Sans JP', sans-serif; min-height: 100vh; }
+    header { background: #fff; border-bottom: 1px solid #e8e8e8; padding: 0 2rem; position: sticky; top: 0; z-index: 100; }
+    .header-inner { max-width: 1100px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; height: 56px; }
+    .logo { font-family: 'DM Mono', monospace; font-size: 1rem; font-weight: 500; letter-spacing: 0.06em; color: #111; }
+    .logo span { color: #10b981; }
+    .header-date { font-size: 0.75rem; color: #999; font-family: 'DM Mono', monospace; }
+    .genre-bar { background: #fff; border-bottom: 1px solid #e8e8e8; overflow-x: auto; scrollbar-width: none; }
+    .genre-bar::-webkit-scrollbar { display: none; }
+    .genre-tabs { max-width: 1100px; margin: 0 auto; display: flex; padding: 0 2rem; }
+    .genre-tab { padding: 0.7rem 1rem; font-size: 0.78rem; font-weight: 500; cursor: pointer; border: none; background: none; color: #888; white-space: nowrap; border-bottom: 2px solid transparent; transition: all 0.15s; font-family: 'Noto Sans JP', sans-serif; }
+    .genre-tab:hover { color: #333; }
+    .genre-tab.active { color: #10b981; border-bottom-color: #10b981; }
+    .stats-bar { max-width: 1100px; margin: 0 auto; padding: 1.2rem 2rem; display: flex; gap: 2rem; align-items: center; }
+    .stat { display: flex; flex-direction: column; gap: 0.1rem; }
+    .stat-value { font-family: 'DM Mono', monospace; font-size: 1.3rem; color: #111; line-height: 1; }
+    .stat-label { font-size: 0.65rem; color: #aaa; text-transform: uppercase; letter-spacing: 0.06em; }
+    .stat-divider { width: 1px; height: 1.8rem; background: #e8e8e8; }
+    main { max-width: 1100px; margin: 0 auto; padding: 0 2rem 4rem; }
+    .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 1rem; }
+    .news-card { background: #fff; border: 1px solid #e8e8e8; border-radius: 8px; padding: 1.25rem; display: flex; flex-direction: column; gap: 0.65rem; text-decoration: none; color: inherit; transition: box-shadow 0.15s, border-color 0.15s; }
+    .news-card:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.08); border-color: #d0d0d0; }
+    .card-top { display: flex; align-items: center; justify-content: space-between; }
+    .genre-badge { font-size: 0.68rem; font-weight: 700; padding: 0.18rem 0.5rem; background: #f0fdf4; color: #10b981; border-radius: 4px; }
+    .importance { font-family: 'DM Mono', monospace; font-size: 0.65rem; color: #ddd; }
+    .importance span { color: #10b981; }
+    .card-title { font-size: 0.92rem; font-weight: 700; line-height: 1.6; color: #111; }
+    .card-summary { font-size: 0.78rem; line-height: 1.75; color: #666; flex: 1; }
+    .card-footer { display: flex; align-items: center; gap: 0.5rem; padding-top: 0.6rem; border-top: 1px solid #f0f0f0; }
+    .card-source { font-size: 0.65rem; color: #aaa; font-family: 'DM Mono', monospace; }
+    .card-time { font-size: 0.65rem; color: #bbb; margin-left: auto; }
+    .card-link { font-size: 0.65rem; color: #10b981; font-weight: 600; margin-left: 0.5rem; }
+    .center-msg { text-align: center; padding: 5rem 2rem; color: #aaa; font-size: 0.85rem; }
+    .spinner { display: inline-block; width: 18px; height: 18px; border: 2px solid #e8e8e8; border-top-color: #10b981; border-radius: 50%; animation: spin 0.8s linear infinite; margin-bottom: 0.8rem; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    footer { border-top: 1px solid #e8e8e8; padding: 1.5rem 2rem; text-align: center; font-size: 0.68rem; color: #bbb; font-family: 'DM Mono', monospace; }
+    @media (max-width: 600px) { .news-grid { grid-template-columns: 1fr; } .stats-bar { gap: 1rem; flex-wrap: wrap; } }
+  </style>
+</head>
+<body>
+<header>
+  <div class="header-inner">
+    <div class="logo">SWEEP<span>news</span></div>
+    <div class="header-date" id="headerDate"></div>
+  </div>
+</header>
+<div class="genre-bar">
+  <div class="genre-tabs" id="genreTabs">
+    <button class="genre-tab active" onclick="filterGenre('all', this)">🌐 すべて</button>
+  </div>
+</div>
+<div class="stats-bar" id="statsBar" style="display:none">
+  <div class="stat"><div class="stat-value" id="statTotal">—</div><div class="stat-label">収集記事</div></div>
+  <div class="stat-divider"></div>
+  <div class="stat"><div class="stat-value" id="statSummarized">—</div><div class="stat-label">AI要約</div></div>
+  <div class="stat-divider"></div>
+  <div class="stat"><div class="stat-value" id="statCost">—</div><div class="stat-label">本日のコスト</div></div>
+  <div class="stat-divider"></div>
+  <div class="stat"><div class="stat-value" id="statGenres">—</div><div class="stat-label">ジャンル</div></div>
+</div>
+<main><div id="content"><div class="center-msg"><div class="spinner"></div><br>読み込み中...</div></div></main>
+<footer>SWEEPNEWS — Powered by Claude API &amp; GitHub Actions — 毎朝6時 JST 自動更新</footer>
+<script>
+  const GENRE_ORDER = ['ai_tech','business','finance','world_news','japan','science','health','environment','gaming_esports','entertainment','dev_tools','other'];
+  let allItems = [], currentGenre = 'all';
+
+  function getToday() {
+    const d = new Date();
+    return `${d.getUTCFullYear()}-${String(d.getUTCMonth()+1).padStart(2,'0')}-${String(d.getUTCDate()).padStart(2,'0')}`;
+  }
+
+  function formatTime(iso) {
+    try {
+      const diff = Math.floor((Date.now() - new Date(iso)) / 60000);
+      if (diff < 60) return diff + '分前';
+      if (diff < 1440) return Math.floor(diff/60) + '時間前';
+      return Math.floor(diff/1440) + '日前';
+    } catch { return ''; }
+  }
+
+  function dots(score) {
+    const n = Math.min(Math.round(score / 2), 5);
+    return '<span>' + '●'.repeat(n) + '</span>' + '●'.repeat(5 - n);
+  }
+
+  function card(item) {
+    return '<a class="news-card" href="' + item.url + '" target="_blank" rel="noopener">' +
+      '<div class="card-top"><span class="genre-badge">' + item.genre_label + '</span><span class="importance">' + dots(item.importance) + '</span></div>' +
+      '<div class="card-title">' + item.title_ja + '</div>' +
+      '<div class="card-summary">' + item.summary_ja + '</div>' +
+      '<div class="card-footer"><span class="card-source">' + item.source + '</span><span class="card-time">' + formatTime(item.published) + '</span><span class="card-link">読む →</span></div>' +
+      '</a>';
+  }
+
+  function filterGenre(genre, el) {
+    currentGenre = genre;
+    document.querySelectorAll('.genre-tab').forEach(t => t.classList.remove('active'));
+    el.classList.add('active');
+    const items = genre === 'all' ? allItems : allItems.filter(i => i.genre === genre);
+    document.getElementById('content').innerHTML = items.length
+      ? '<div class="news-grid">' + items.map(card).join('') + '</div>'
+      : '<div class="center-msg">記事が見つかりません</div>';
+  }
+
+  async function load() {
+    document.getElementById('headerDate').textContent = getToday();
+    let data = null;
+    for (let i = 0; i < 2; i++) {
+      const d = new Date(); d.setUTCDate(d.getUTCDate() - i);
+      const date = d.getUTCFullYear() + '-' + String(d.getUTCMonth()+1).padStart(2,'0') + '-' + String(d.getUTCDate()).padStart(2,'0');
+      try { const r = await fetch('data/daily/' + date + '.json?v=' + Date.now()); if (r.ok) { data = await r.json(); break; } } catch {}
+    }
+    if (!data) { document.getElementById('content').innerHTML = '<div class="center-msg">データが見つかりません。<br>明日の朝6時以降に自動更新されます。</div>'; return; }
+    allItems = data.items || [];
+    document.getElementById('statTotal').textContent = (data.total_collected || 0).toLocaleString();
+    document.getElementById('statSummarized').textContent = data.total_summarized || 0;
+    document.getElementById('statCost').textContent = data.cost_usd ? '$' + data.cost_usd.toFixed(3) : '—';
+    document.getElementById('statGenres').textContent = Object.keys(data.genre_summary || {}).length;
+    document.getElementById('statsBar').style.display = 'flex';
+    const tabs = document.getElementById('genreTabs');
+    const gs = data.genre_summary || {};
+    [...GENRE_ORDER.filter(g => gs[g]), ...Object.keys(gs).filter(g => !GENRE_ORDER.includes(g))].forEach(genre => {
+      const btn = document.createElement('button');
+      btn.className = 'genre-tab';
+      btn.textContent = gs[genre].label + ' ' + gs[genre].count;
+      btn.onclick = () => filterGenre(genre, btn);
+      tabs.appendChild(btn);
+    });
+    document.getElementById('content').innerHTML = '<div class="news-grid">' + allItems.map(card).join('') + '</div>';
+  }
+  load();
+</script>
+</body>
+</html>
