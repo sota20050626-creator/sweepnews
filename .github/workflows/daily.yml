@@ -27,6 +27,11 @@ jobs:
       - name: Run collector
         run: python collector.py
 
+      - name: Run translator
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python translator.py
+
       - name: Commit and push results
         run: |
           git config --local user.email "action@github.com"
