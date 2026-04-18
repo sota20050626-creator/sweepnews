@@ -81,7 +81,7 @@
   function row(item) {
     return '<a class="news-row" href="' + item.url + '" target="_blank" rel="noopener">' +
       '<span class="row-genre">' + (item.genre_label || item.genre || '') + '</span>' +
-      '<span class="row-title">' + item.title + '</span>' +
+      '<span class="row-title">' + (item.title_ja || item.title) + '</span>' +
       '<span class="row-source">' + item.source + '</span>' +
       '<span class="row-time">' + formatTime(item.published) + '</span>' +
       '<span class="row-arrow">↗</span></a>';
