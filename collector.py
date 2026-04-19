@@ -228,6 +228,22 @@ def clean_text(text):
     return text
 
 
+def filter_recent(items, days=7):
+    """7日以内の記事のみ残す"""
+    import email.utils
+    cutoff = datetime.now(timezone.utc).timestamp() - days * 86400
+    result = []
+    for item in items:
+        pub = item.get("published", "")
+        try:
+            ts = email.utils.parsedate_to_datetime(pub).timestamp()
+            if ts >= cutoff:
+                result.append(item)
+        except Exception:
+            result.append(item)
+    return result
+
+
 def deduplicate(items):
     seen = set()
     result = []
@@ -260,6 +276,8 @@ def main():
         all_items.extend(genre_items)
 
     all_items = deduplicate(all_items)
+    all_items = filter_recent(all_items, days=7)
+    print(f"  7日以内: {len(all_items)}件")
 
     # ジャンル別サマリー生成
     genre_summary = {}
