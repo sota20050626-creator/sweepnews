@@ -1,19 +1,19 @@
 {
   "date": "2026-04-19",
-  "collected_at": "2026-04-19T04:41:11.560255+00:00",
-  "total": 995,
+  "collected_at": "2026-04-19T05:01:04.611198+00:00",
+  "total": 860,
   "genre_counts": {
     "ai_tech": 147,
     "business": 118,
     "science": 60,
-    "world_news": 109,
+    "world_news": 100,
     "finance": 100,
     "health": 40,
     "environment": 60,
     "gaming_esports": 120,
     "entertainment": 59,
     "japan": 79,
-    "dev_tools": 108
+    "dev_tools": 107
   },
   "genre_summary": {
     "ai_tech": {
@@ -30,7 +30,7 @@
     },
     "world_news": {
       "label": "🌍 世界ニュース",
-      "count": 109
+      "count": 100
     },
     "finance": {
       "label": "📈 金融・経済",
@@ -58,210 +58,10 @@
     },
     "dev_tools": {
       "label": "💻 開発・ツール",
-      "count": 108
+      "count": 107
     }
   },
   "items": [
-    {
-      "title": "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)",
-      "url": "https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html",
-      "source": "TechCrunch",
-      "published": "Thu, 04 Dec 2025 05:37:00 +0000",
-      "description": "<p style=\"text-align: left;\">Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on bui",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)"
-    },
-    {
-      "title": "Top 10 AI Tools That Will Transform Your Content Creation in 2025",
-      "url": "https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html",
-      "source": "TechCrunch",
-      "published": "Thu, 02 Jan 2025 09:26:00 +0000",
-      "description": "<div style=\"text-align: left;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge5QgwLKWbavTUhIedQLI79z5BGD4h0ZoH4YMK6bGBL6fY4Je8R3GZurMZaJmtYirFS6pS-GgZD3xFAqfln8w8faEY2iDehndQNee",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Top 10 AI Tools That Will Transform Your Content Creation in 2025"
-    },
-    {
-      "title": "LimeWire AI Studio Review 2023: Details, Pricing & Features",
-      "url": "https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html",
-      "source": "TechCrunch",
-      "published": "Tue, 12 Dec 2023 16:10:00 +0000",
-      "description": "<p style=\"text-align: left;\"><span style=\"font-family: Oxygen;\"> </span></p><p style=\"text-align: left;\"><span style=\"font-family: Oxygen;\">In the rapidly advancing landscape of AI technology and inno",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "LimeWire AI Studio Review 2023: Details, Pricing & Features"
-    },
-    {
-      "title": "Top 10 AI Tools in 2023 That Will Make Your Life Easier",
-      "url": "https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html",
-      "source": "TechCrunch",
-      "published": "Wed, 25 Jan 2023 19:52:00 +0000",
-      "description": "<p><span style=\"font-family: Montserrat;\"><br /></span></p><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu91xnR3L",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Top 10 AI Tools in 2023 That Will Make Your Life Easier"
-    },
-    {
-      "title": "Top 10 AI Content Generator & Writer Tools in 2022",
-      "url": "https://techncruncher.blogspot.com/2022/11/top-10-ai-content-generator-writer.html",
-      "source": "TechCrunch",
-      "published": "Tue, 15 Nov 2022 08:58:00 +0000",
-      "description": "<div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBctm5Egmcjk0M2MgIO-nxagQkcnEng710MSuurlF8JRIZETNCnB2Rq8PxbVumtmA9KQ",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Top 10 AI Content Generator & Writer Tools in 2022"
-    },
-    {
-      "title": "Beginner Guide to CJ Affiliate (Commission Junction) in 2022",
-      "url": "https://techncruncher.blogspot.com/2022/09/cj-affiliate-ultimate-guide-to.html",
-      "source": "TechCrunch",
-      "published": "Sat, 10 Sep 2022 08:57:00 +0000",
-      "description": "<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.go",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Beginner Guide to CJ Affiliate (Commission Junction) in 2022"
-    },
-    {
-      "title": "TOP 11 AI MARKETING TOOLS YOU SHOULD USE (Updated 2022)",
-      "url": "https://techncruncher.blogspot.com/2022/07/top-10-ai-marketing-tools-you-should-use.html",
-      "source": "TechCrunch",
-      "published": "Wed, 13 Jul 2022 15:25:00 +0000",
-      "description": "<p><span style=\"font-family: Comfortaa;\"> <br /></span></p><table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto;\"><tbody><tr>",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "TOP 11 AI MARKETING TOOLS YOU SHOULD USE (Updated 2022)"
-    },
-    {
-      "title": "Most Frequently Asked Questions About Affiliate Marketing",
-      "url": "https://techncruncher.blogspot.com/2022/06/most-frequently-asked-questions-about.html",
-      "source": "TechCrunch",
-      "published": "Wed, 01 Jun 2022 13:03:00 +0000",
-      "description": "<p><span style=\"font-family: Frank Ruhl Libre;\"></span></p><div class=\"separator\" style=\"clear: both; text-align: center;\"><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"http",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Most Frequently Asked Questions About Affiliate Marketing"
-    },
-    {
-      "title": "What is Blockchain: Everything You Need to Know (2022)",
-      "url": "https://techncruncher.blogspot.com/2022/04/what-is-blockchain-everything-you-need.html",
-      "source": "TechCrunch",
-      "published": "Mon, 18 Apr 2022 05:49:00 +0000",
-      "description": "<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto;\"><tbody><tr><td style=\"text-align: center;\"><img alt=\"What is Blockchai",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "What is Blockchain: Everything You Need to Know (2022)"
-    },
-    {
-      "title": "ProWritingAid VS Grammarly: Which Grammar Checker is Better in (2022) ?",
-      "url": "https://techncruncher.blogspot.com/2022/03/prowritingaid-vs-grammarly-which.html",
-      "source": "TechCrunch",
-      "published": "Sun, 13 Mar 2022 15:04:00 +0000",
-      "description": "<h2 style=\"text-align: left;\"><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/a/AVvXsEjF7I9iAp1Tfc6kFmKNOYqqI2V1NjZ1ltfemNKGCo1nvQlCy",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "ProWritingAid VS Grammarly: Which Grammar Checker is Better in (2022) ?"
-    },
-    {
-      "title": "Sellfy Review 2022: How Good Is This Ecommerce Platform?",
-      "url": "https://techncruncher.blogspot.com/2022/03/sellfy-review-2022-how-good-is-this.html",
-      "source": "TechCrunch",
-      "published": "Sat, 12 Mar 2022 11:54:00 +0000",
-      "description": "<h2 style=\"text-align: left;\"><span style=\"font-family: Comfortaa;\"> </span></h2><div class=\"separator\" style=\"clear: both; text-align: center;\"><span style=\"font-family: Comfortaa;\"><a href=\"https://",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Sellfy Review 2022: How Good Is This Ecommerce Platform?"
-    },
-    {
-      "title": "Ahrefs vs SEMrush: Which SEO Tool Should You Use?",
-      "url": "https://techncruncher.blogspot.com/2022/03/ahrefs-vs-semrush-which-seo-tool-should.html",
-      "source": "TechCrunch",
-      "published": "Tue, 01 Mar 2022 12:16:00 +0000",
-      "description": "<div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/a/AVvXsEgjp-Lwdt6oYlgGQ0HWI9cLSBOiniI0CKOWnRWuiQTe2uBJIenevsoZKESvI4-Uo-4r6VU1RjQZUtL",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Ahrefs vs SEMrush: Which SEO Tool Should You Use?"
-    },
-    {
-      "title": "Top 10 Best PLR(Private Label Rights) Websites | Which One You Should Join in 2022?",
-      "url": "https://techncruncher.blogspot.com/2022/02/top-10-best-plrprivate-label-rights.html",
-      "source": "TechCrunch",
-      "published": "Sat, 26 Feb 2022 13:36:00 +0000",
-      "description": "<div style=\"text-align: left;\"><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/a/AVvXsEgpTleC7nbtAf6ZqNeNw3zr0CpxWqvP175ArBM_TBOd_D2X",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Top 10 Best PLR(Private Label Rights) Websites | Which One You Should Join in 2022?"
-    },
-    {
-      "title": "Canva Review 2022: Details, Pricing & Features",
-      "url": "https://techncruncher.blogspot.com/2022/02/canva-review-2022-details-pricing.html",
-      "source": "TechCrunch",
-      "published": "Sun, 20 Feb 2022 12:02:00 +0000",
-      "description": "<p></p><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/a/AVvXsEiljHs4qU-lZzbi0TWFIn9ZuZKsIqXppAn9S2OA4I8hviC-oeROUJF6PF5KTjPEWQ2irXcq",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Canva Review 2022: Details, Pricing & Features"
-    },
-    {
-      "title": "Top 7 Best Wordpress Plugin Of All Time",
-      "url": "https://techncruncher.blogspot.com/2022/02/top-7-best-wordpress-plugin-of-all-time.html",
-      "source": "TechCrunch",
-      "published": "Fri, 11 Feb 2022 09:00:00 +0000",
-      "description": "<p><span style=\"font-family: Comfortaa;\"> </span></p><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/a/AVvXsEh83RF5KAieFKbr8sc_oPwJu-",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Top 7 Best Wordpress Plugin Of All Time"
-    },
-    {
-      "title": "Ginger VS Grammarly: Which Grammar Checker is Better in (2022) ?",
-      "url": "https://techncruncher.blogspot.com/2022/02/ginger-vs-grammarly-which-grammar.html",
-      "source": "TechCrunch",
-      "published": "Thu, 10 Feb 2022 10:28:00 +0000",
-      "description": "<div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/a/AVvXsEiw55GbmTyuJuYD43yqA61hrsY7bBgb5BwMzkO1sOgHcRFh3PK4ApQtQgGeXfZWLhT-2zxAxo_RB16",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Ginger VS Grammarly: Which Grammar Checker is Better in (2022) ?"
-    },
-    {
-      "title": "Most Frequently Asked Questions About NFTs(Non-Fungible Tokens)",
-      "url": "https://techncruncher.blogspot.com/2022/02/most-frequently-asked-questions-about.html",
-      "source": "TechCrunch",
-      "published": "Sun, 06 Feb 2022 10:04:00 +0000",
-      "description": "<p><span style=\"font-family: Comfortaa;\"> </span></p><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/a/AVvXsEhQ__o2Bk7fjBlzcWaYTiBTTZ",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Most Frequently Asked Questions About NFTs(Non-Fungible Tokens)"
-    },
-    {
-      "title": "10 Best Chrome Extensions That Are Perfect for Everyone",
-      "url": "https://techncruncher.blogspot.com/2022/01/10-best-chrome-extensions-that-are.html",
-      "source": "TechCrunch",
-      "published": "Mon, 31 Jan 2022 10:56:00 +0000",
-      "description": "<h3 style=\"text-align: left;\"><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/a/AVvXsEjIzhhoRuo6JR-7_6kymWhyoZ8V6Yy_kR8A9sDUaVi-v0DJz",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "10 Best Chrome Extensions That Are Perfect for Everyone"
-    },
-    {
-      "title": "Most Frequently Asked Questions About Email Marketing",
-      "url": "https://techncruncher.blogspot.com/2022/01/most-frequently-asked-questions-about.html",
-      "source": "TechCrunch",
-      "published": "Sat, 29 Jan 2022 12:45:00 +0000",
-      "description": "<p></p><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/a/AVvXsEgD5ya1-4Tnsum7tKBC7maSYhkX2x5tHg2-_ihpar1PmlsT7MKPH0419APpBlmOXCVkxaoz",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Most Frequently Asked Questions About Email Marketing"
-    },
-    {
-      "title": "7 Free Websites Every Content Creator Needs to Know",
-      "url": "https://techncruncher.blogspot.com/2022/01/7-free-websites-every-content-creator.html",
-      "source": "TechCrunch",
-      "published": "Thu, 27 Jan 2022 15:19:00 +0000",
-      "description": "<div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/a/AVvXsEjwH3GmjDmHcu86RboQutNZeTWtfl93FX1CXyb3v9r45OyLZAAwlhaOy0qm5SrXo8QN5MuzUWOQqJ5",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "7 Free Websites Every Content Creator Needs to Know"
-    },
     {
       "title": "The RAM shortage could last years",
       "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
@@ -883,56 +683,6 @@
       "title_ja": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?"
     },
     {
-      "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-      "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/",
-      "source": "ML Mastery",
-      "published": "Fri, 10 Apr 2026 21:34:00 +0000",
-      "description": "<a href=\"https://machinelearningmastery.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System"
-    },
-    {
-      "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-      "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/",
-      "source": "ML Mastery",
-      "published": "Thu, 09 Apr 2026 12:00:35 +0000",
-      "description": "Most <a href=\"https://machinelearningmastery.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "The Roadmap to Mastering Agentic AI Design Patterns"
-    },
-    {
-      "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-      "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/",
-      "source": "ML Mastery",
-      "published": "Wed, 08 Apr 2026 12:02:28 +0000",
-      "description": "<a href=\"https://github.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval"
-    },
-    {
-      "title": "Handling Race Conditions in Multi-Agent Orchestration",
-      "url": "https://machinelearningmastery.com/handling-race-conditions-in-multi-agent-orchestration/",
-      "source": "ML Mastery",
-      "published": "Tue, 07 Apr 2026 14:58:54 +0000",
-      "description": "If you've ever watched two agents confidently write to the same resource at the same time and produce something that makes zero sense, you already know what a race condition feels like in practice.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Handling Race Conditions in Multi-Agent Orchestration"
-    },
-    {
-      "title": "Top 5 Reranking Models to Improve RAG Results",
-      "url": "https://machinelearningmastery.com/top-5-reranking-models-to-improve-rag-results/",
-      "source": "ML Mastery",
-      "published": "Mon, 06 Apr 2026 12:00:52 +0000",
-      "description": "If you have worked with retrieval-augmented generation (RAG) systems, you have probably seen this problem.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Top 5 Reranking Models to Improve RAG Results"
-    },
-    {
       "title": "Your RAG System Retrieves the Right Data — But Still Produces Wrong Answers. Here’s Why (and How to Fix It).",
       "url": "https://towardsdatascience.com/your-rag-system-retrieves-the-right-data-but-still-produces-wrong-answers-heres-why-and-how-to-fix-it/",
       "source": "Towards Data Science",
@@ -1193,146 +943,6 @@
       "title_ja": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI"
     },
     {
-      "title": "Creating images with ChatGPT",
-      "url": "https://openai.com/academy/image-generation",
-      "source": "OpenAI Blog",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Creating images with ChatGPT"
-    },
-    {
-      "title": "ChatGPT for research",
-      "url": "https://openai.com/academy/research",
-      "source": "OpenAI Blog",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "ChatGPT for research"
-    },
-    {
-      "title": "Healthcare",
-      "url": "https://openai.com/academy/healthcare",
-      "source": "OpenAI Blog",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Healthcare"
-    },
-    {
-      "title": "Our response to the Axios developer tool compromise",
-      "url": "https://openai.com/index/axios-developer-tool-compromise",
-      "source": "OpenAI Blog",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Our response to the Axios developer tool compromise"
-    },
-    {
-      "title": "Using projects in ChatGPT",
-      "url": "https://openai.com/academy/projects",
-      "source": "OpenAI Blog",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Using projects in ChatGPT"
-    },
-    {
-      "title": "Analyzing data with ChatGPT",
-      "url": "https://openai.com/academy/data-analysis",
-      "source": "OpenAI Blog",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Analyzing data with ChatGPT"
-    },
-    {
-      "title": "AI fundamentals",
-      "url": "https://openai.com/academy/what-is-ai",
-      "source": "OpenAI Blog",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "AI fundamentals"
-    },
-    {
-      "title": "ChatGPT for operations teams",
-      "url": "https://openai.com/academy/operations",
-      "source": "OpenAI Blog",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "ChatGPT for operations teams"
-    },
-    {
-      "title": "Brainstorming with ChatGPT",
-      "url": "https://openai.com/academy/brainstorming",
-      "source": "OpenAI Blog",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Brainstorming with ChatGPT"
-    },
-    {
-      "title": "Writing with ChatGPT",
-      "url": "https://openai.com/academy/writing",
-      "source": "OpenAI Blog",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Writing with ChatGPT"
-    },
-    {
-      "title": "Responsible and safe use of AI",
-      "url": "https://openai.com/academy/responsible-and-safe-use",
-      "source": "OpenAI Blog",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Responsible and safe use of AI"
-    },
-    {
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
-      "source": "OpenAI Blog",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Getting started with ChatGPT"
-    },
-    {
-      "title": "Research with ChatGPT",
-      "url": "https://openai.com/academy/search-and-deep-research",
-      "source": "OpenAI Blog",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Research with ChatGPT"
-    },
-    {
-      "title": "ChatGPT for customer success teams",
-      "url": "https://openai.com/academy/customer-success",
-      "source": "OpenAI Blog",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "ChatGPT for customer success teams"
-    },
-    {
       "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
       "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
       "source": "HuggingFace Blog",
@@ -1391,146 +1001,6 @@
       "genre": "ai_tech",
       "genre_label": "🤖 AI・テクノロジー",
       "title_ja": "Meet HoloTab by HCompany. Your AI browser companion."
-    },
-    {
-      "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
-      "url": "https://huggingface.co/blog/waypoint-1-5",
-      "source": "HuggingFace Blog",
-      "published": "Thu, 09 Apr 2026 00:00:00 GMT",
-      "description": "",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs"
-    },
-    {
-      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
-      "source": "HuggingFace Blog",
-      "published": "Thu, 09 Apr 2026 00:00:00 GMT",
-      "description": "",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Multimodal Embedding & Reranker Models with Sentence Transformers"
-    },
-    {
-      "title": "Safetensors is Joining the PyTorch Foundation",
-      "url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
-      "source": "HuggingFace Blog",
-      "published": "Wed, 08 Apr 2026 00:00:00 GMT",
-      "description": "",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Safetensors is Joining the PyTorch Foundation"
-    },
-    {
-      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
-      "url": "https://huggingface.co/blog/gemma4",
-      "source": "HuggingFace Blog",
-      "published": "Thu, 02 Apr 2026 00:00:00 GMT",
-      "description": "",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Welcome Gemma 4: Frontier multimodal intelligence on device"
-    },
-    {
-      "title": "Falcon Perception",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
-      "source": "HuggingFace Blog",
-      "published": "Wed, 01 Apr 2026 07:13:20 GMT",
-      "description": "",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Falcon Perception"
-    },
-    {
-      "title": "Any Custom Frontend with Gradio&apos;s Backend",
-      "url": "https://huggingface.co/blog/introducing-gradio-server",
-      "source": "HuggingFace Blog",
-      "published": "Wed, 01 Apr 2026 00:00:00 GMT",
-      "description": "",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Any Custom Frontend with Gradio&apos;s Backend"
-    },
-    {
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "source": "HuggingFace Blog",
-      "published": "Tue, 31 Mar 2026 15:10:41 GMT",
-      "description": "",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents"
-    },
-    {
-      "title": "Training mRNA Language Models Across 25 Species for $165",
-      "url": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species",
-      "source": "HuggingFace Blog",
-      "published": "Tue, 31 Mar 2026 08:23:44 GMT",
-      "description": "",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Training mRNA Language Models Across 25 Species for $165"
-    },
-    {
-      "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
-      "url": "https://huggingface.co/blog/trl-v1",
-      "source": "HuggingFace Blog",
-      "published": "Tue, 31 Mar 2026 00:00:00 GMT",
-      "description": "",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "TRL v1.0: Post-Training Library Built to Move with the Field"
-    },
-    {
-      "title": "Liberate your OpenClaw",
-      "url": "https://huggingface.co/blog/liberate-your-openclaw",
-      "source": "HuggingFace Blog",
-      "published": "Fri, 27 Mar 2026 00:00:00 GMT",
-      "description": "",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Liberate your OpenClaw"
-    },
-    {
-      "title": "A New Framework for Evaluating Voice Agents (EVA)",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
-      "source": "HuggingFace Blog",
-      "published": "Tue, 24 Mar 2026 02:01:52 GMT",
-      "description": "",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "A New Framework for Evaluating Voice Agents (EVA)"
-    },
-    {
-      "title": "Build a Domain-Specific Embedding Model in Under a Day",
-      "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
-      "source": "HuggingFace Blog",
-      "published": "Fri, 20 Mar 2026 19:38:16 GMT",
-      "description": "",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Build a Domain-Specific Embedding Model in Under a Day"
-    },
-    {
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "HuggingFace Blog",
-      "published": "Tue, 17 Mar 2026 16:37:55 GMT",
-      "description": "",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "State of Open Source on Hugging Face: Spring 2026"
-    },
-    {
-      "title": "Holotron-12B - High Throughput Computer Use Agent",
-      "url": "https://huggingface.co/blog/Hcompany/holotron-12b",
-      "source": "HuggingFace Blog",
-      "published": "Tue, 17 Mar 2026 12:33:39 GMT",
-      "description": "",
-      "genre": "ai_tech",
-      "genre_label": "🤖 AI・テクノロジー",
-      "title_ja": "Holotron-12B - High Throughput Computer Use Agent"
     },
     {
       "title": "Hormuz Chaos, Lebanon Clashes Dent Trump Peace Deal Hopes",
@@ -3316,7 +2786,7 @@
       "title": "Foreign secretary concerned ministers not told of Mandelson vetting fears sooner",
       "url": "https://www.bbc.com/news/articles/c80m2z42pr1o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC News",
-      "published": "Sun, 19 Apr 2026 04:08:43 GMT",
+      "published": "Sun, 19 Apr 2026 04:58:38 GMT",
       "description": "Prime Minister Sir Keir Starmer is facing calls to resign over the scandal and will address MPs on Monday.",
       "genre": "world_news",
       "genre_label": "🌍 世界ニュース",
@@ -4066,7 +3536,7 @@
       "title": "Australia news live: Ben Roberts-Smith denies war crimes allegations in first public statement since arrest; free public transport in Victoria extended",
       "url": "https://www.theguardian.com/australia-news/live/2026/apr/19/australia-news-live-free-public-transport-in-victoria-extended-man-charged-with-in-nsw-ntwnfb",
       "source": "Guardian World",
-      "published": "Sun, 19 Apr 2026 04:19:19 GMT",
+      "published": "Sun, 19 Apr 2026 04:39:52 GMT",
       "description": "<p>Follow today’s news live</p><ul><li><p><strong>Get our </strong><a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"><strong>breaking news email</strong></a><strong>, </strong><a hr",
       "genre": "world_news",
       "genre_label": "🌍 世界ニュース",
@@ -4111,96 +3581,6 @@
       "genre": "world_news",
       "genre_label": "🌍 世界ニュース",
       "title_ja": "Jacinta Allan wants voters to see Victoria’s 12-year-old Labor government as ‘new and united’. Can she cling to power?"
-    },
-    {
-      "title": "Iran closes Strait of Hormuz again; 2 ships report attacks while trying to cross",
-      "url": "https://www.washingtonpost.com/world/2026/04/18/iran-strait-hormuz-us-oil/",
-      "source": "Washington Post World",
-      "published": "Sat, 18 Apr 2026 20:35:10 +0000",
-      "description": "India said it summoned Iran’s Ambassador in New Delhi, conveying concerns over “a shooting incident\" in the strait involving two Indian-flagged ships.",
-      "genre": "world_news",
-      "genre_label": "🌍 世界ニュース",
-      "title_ja": "Iran closes Strait of Hormuz again; 2 ships report attacks while trying to cross"
-    },
-    {
-      "title": "Here’s what the stock market might have gotten wrong about the Iran war",
-      "url": "https://www.washingtonpost.com/business/2026/04/18/iran-oil-stock-market-economy/",
-      "source": "Washington Post World",
-      "published": "Sat, 18 Apr 2026 11:43:16 +0000",
-      "description": "Amid confusion over the Strait of Hormuz, a starkly different reality is unfolding defined by disrupted supply lines and damaged infrastructure.",
-      "genre": "world_news",
-      "genre_label": "🌍 世界ニュース",
-      "title_ja": "Here’s what the stock market might have gotten wrong about the Iran war"
-    },
-    {
-      "title": "After Orban’s defeat in Hungary, Bulgaria offers Kremlin’s next best bet",
-      "url": "https://www.washingtonpost.com/world/2026/04/18/bulgaria-election-radev-russia-orban/",
-      "source": "Washington Post World",
-      "published": "Sat, 18 Apr 2026 09:00:38 +0000",
-      "description": "Analysts and former diplomats say they fear the hand of the Kremlin in Bulgaria’s election Sunday as Moscow seeks to retain influence inside the E.U.",
-      "genre": "world_news",
-      "genre_label": "🌍 世界ニュース",
-      "title_ja": "After Orban’s defeat in Hungary, Bulgaria offers Kremlin’s next best bet"
-    },
-    {
-      "title": "Why China is taking a behind-the-scenes role in the Iran war",
-      "url": "https://www.washingtonpost.com/world/2026/04/18/china-iran-war-xi-trump/",
-      "source": "Washington Post World",
-      "published": "Sat, 18 Apr 2026 09:00:20 +0000",
-      "description": "As Trump pursued an unpopular war, Beijing positioned itself as a peacemaker, with little incentive to pressure Iran or annoy the U.S.",
-      "genre": "world_news",
-      "genre_label": "🌍 世界ニュース",
-      "title_ja": "Why China is taking a behind-the-scenes role in the Iran war"
-    },
-    {
-      "title": "Iran disputes claims of new agreements with Trump",
-      "url": "https://www.washingtonpost.com/world/2026/04/17/hormuz-strait-reopens-iran-us-war/",
-      "source": "Washington Post World",
-      "published": "Sat, 18 Apr 2026 06:51:28 +0000",
-      "description": "Tehran put limits on the Strait of Hormuz’s opening, as the United States issued a new sanctions exemption on the sale of Russian oil.",
-      "genre": "world_news",
-      "genre_label": "🌍 世界ニュース",
-      "title_ja": "Iran disputes claims of new agreements with Trump"
-    },
-    {
-      "title": "One of the world’s most wanted men is arrested, ending years-long hunt",
-      "url": "https://www.washingtonpost.com/world/2026/04/17/daniel-kinahan-arrested-dubai-ireland-crime/",
-      "source": "Washington Post World",
-      "published": "Fri, 17 Apr 2026 22:25:03 +0000",
-      "description": "Daniel Joseph Kinahan, a fugitive suspected of leading a powerful gang in Ireland, was arrested in Dubai as part of a secret operation by Irish and UAE police.",
-      "genre": "world_news",
-      "genre_label": "🌍 世界ニュース",
-      "title_ja": "One of the world’s most wanted men is arrested, ending years-long hunt"
-    },
-    {
-      "title": "Displaced Lebanese families rush home as fragile ceasefire takes force",
-      "url": "https://www.washingtonpost.com/world/2026/04/17/trump-israel-lebanon-hezbollah-ceasefire/",
-      "source": "Washington Post World",
-      "published": "Fri, 17 Apr 2026 22:06:09 +0000",
-      "description": "Even amid uncertainty over whether the truce would hold, many in Lebanon expressed relief at the prospect of quiet as aid groups mobilized help.",
-      "genre": "world_news",
-      "genre_label": "🌍 世界ニュース",
-      "title_ja": "Displaced Lebanese families rush home as fragile ceasefire takes force"
-    },
-    {
-      "title": "He bought two raffle tickets and won a Picasso worth more than $1 million",
-      "url": "https://www.washingtonpost.com/lifestyle/2026/04/17/picasso-raffle-ticket-winner-paris/",
-      "source": "Washington Post World",
-      "published": "Fri, 17 Apr 2026 09:00:27 +0000",
-      "description": "Art lover Ari Hodara bought two raffle tickets on a whim for about $118 each. The raffle raised money for Alzheimer’s research.",
-      "genre": "world_news",
-      "genre_label": "🌍 世界ニュース",
-      "title_ja": "He bought two raffle tickets and won a Picasso worth more than $1 million"
-    },
-    {
-      "title": "Even for Europe’s populist firebrands, Trump is going too far",
-      "url": "https://www.washingtonpost.com/world/2026/04/17/trump-european-populists-breaking-point/",
-      "source": "Washington Post World",
-      "published": "Fri, 17 Apr 2026 09:00:00 +0000",
-      "description": "The symbiosis between the president and European nationalists has reached a potential breaking point as he issues genocidal rhetoric and criticizes the pope.",
-      "genre": "world_news",
-      "genre_label": "🌍 世界ニュース",
-      "title_ja": "Even for Europe’s populist firebrands, Trump is going too far"
     },
     {
       "title": "Ukraine Has a Plan to Build Back Better",
@@ -5863,46 +5243,6 @@
       "title_ja": "Average new UK electric car price is now lower than petrol vehicles"
     },
     {
-      "title": "US is ‘using Mexico as a garbage sink’ leading to ‘toxic crisis’, UN expert says",
-      "url": "https://www.theguardian.com/world/2026/apr/07/mexico-us-toxic-waste-un-special-rapporteur",
-      "source": "Guardian Environment",
-      "published": "Tue, 07 Apr 2026 10:00:45 GMT",
-      "description": "<p>Marcos Orellana, a special rapporteur, found lax environmental standards and lack of oversight allowed pollution to accumulate</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/dec/02",
-      "genre": "environment",
-      "genre_label": "🌿 環境・気候",
-      "title_ja": "US is ‘using Mexico as a garbage sink’ leading to ‘toxic crisis’, UN expert says"
-    },
-    {
-      "title": "Mexico moves to combat pollution following Guardian investigations",
-      "url": "https://www.theguardian.com/us-news/2026/feb/01/mexico-moves-to-combat-pollution-following-guardian-investigations",
-      "source": "Guardian Environment",
-      "published": "Sun, 01 Feb 2026 17:08:27 GMT",
-      "description": "<p>After stories revealed high levels of contamination in neighborhood around factory processing US toxic waste, government announces sweeping array of tactics</p><p>The Mexican government has announc",
-      "genre": "environment",
-      "genre_label": "🌿 環境・気候",
-      "title_ja": "Mexico moves to combat pollution following Guardian investigations"
-    },
-    {
-      "title": "Revealed: Mexico’s industrial boomtown is making goods for the US. Residents say they’re ‘breathing poison’",
-      "url": "https://www.theguardian.com/us-news/2025/dec/02/monterrey-mexico-air-quality-industrial-pollution",
-      "source": "Guardian Environment",
-      "published": "Tue, 02 Dec 2025 14:00:34 GMT",
-      "description": "<p>Polluting facilities in Monterrey, which has close ties to the US, are pumping toxic heavy metals into the city’s air and threatening residents’ health</p><ul><li><p><a href=\"http://quintoelab.org/",
-      "genre": "environment",
-      "genre_label": "🌿 環境・気候",
-      "title_ja": "Revealed: Mexico’s industrial boomtown is making goods for the US. Residents say they’re ‘breathing poison’"
-    },
-    {
-      "title": "Mexico factory that imports US toxic waste to relocate after Guardian report",
-      "url": "https://www.theguardian.com/us-news/2025/may/03/mexico-zinc-nacional-factory-hazardous-waste-relocation",
-      "source": "Guardian Environment",
-      "published": "Sat, 03 May 2025 15:00:41 GMT",
-      "description": "<p>Zinc Nacional will move ‘most polluting’ operations after joint investigation found heavy-metals pollution in area</p><ul><li><a href=\"https://www.theguardian.com/us-news/ng-interactive/2025/jan/14",
-      "genre": "environment",
-      "genre_label": "🌿 環境・気候",
-      "title_ja": "Mexico factory that imports US toxic waste to relocate after Guardian report"
-    },
-    {
       "title": "‘I don’t go out’: Vermont’s undocumented dairy workers live in fear after immigration raids",
       "url": "https://www.theguardian.com/environment/2026/apr/16/vermont-dairy-workers-immigration",
       "source": "Guardian Environment",
@@ -5921,26 +5261,6 @@
       "genre": "environment",
       "genre_label": "🌿 環境・気候",
       "title_ja": "‘They want to keep denying us our rights’: workers in Vermont’s $5.4bn dairy industry fight for basic labor protections"
-    },
-    {
-      "title": "Braiding knowledge: how Indigenous expertise and western science are converging",
-      "url": "https://www.theguardian.com/environment/2026/apr/04/indigenous-knowledge-western-science-climate-ecosystems",
-      "source": "Guardian Environment",
-      "published": "Sat, 04 Apr 2026 15:00:24 GMT",
-      "description": "<p>Researchers are weaving Native practices with western methods to revive ecosystems and reclaim food sovereignty</p><p>“I’m a glorified clam counter.”</p><p>So said <a href=\"https://cenv.wwu.edu/peo",
-      "genre": "environment",
-      "genre_label": "🌿 環境・気候",
-      "title_ja": "Braiding knowledge: how Indigenous expertise and western science are converging"
-    },
-    {
-      "title": "Is foraging really feasible to feed myself?",
-      "url": "https://www.theguardian.com/food/2026/mar/27/foraging-feasibility-food-environment",
-      "source": "Guardian Environment",
-      "published": "Fri, 27 Mar 2026 11:00:04 GMT",
-      "description": "<p>This labor-intensive way of eating isn’t for everyone – and I’m not sure it’s for me. It requires planning and flexibility</p><p></p><p>When I called Robin Greenfield, an environmental activist and",
-      "genre": "environment",
-      "genre_label": "🌿 環境・気候",
-      "title_ja": "Is foraging really feasible to feed myself?"
     },
     {
       "title": "A prickle of hedgehogs and an armada of newts: wildlife settles in at London’s new Queen Elizabeth garden",
@@ -6123,36 +5443,6 @@
       "title_ja": "Texas is giving data centers more than $1 billion in tax breaks each year"
     },
     {
-      "title": "Oil companies accused of massive accounting fraud in New Mexico",
-      "url": "https://grist.org/energy/oil-companies-accused-of-massive-accounting-fraud-in-new-mexico/",
-      "source": "Grist",
-      "published": "Sat, 11 Apr 2026 13:00:00 +0000",
-      "description": "A lawsuit claims ExxonMobil and others underreported debts by $194 million, calling it “a playbook” for how companies dump old wells and expenses on states.",
-      "genre": "environment",
-      "genre_label": "🌿 環境・気候",
-      "title_ja": "Oil companies accused of massive accounting fraud in New Mexico"
-    },
-    {
-      "title": "How the Trump administration’s climate math doesn’t add up",
-      "url": "https://grist.org/economics/trump-administration-climate-economy-government-budget/",
-      "source": "Grist",
-      "published": "Fri, 10 Apr 2026 08:45:00 +0000",
-      "description": "There's an old argument that protecting the environment hurts the economy. It's wrong for a lot of reasons.",
-      "genre": "environment",
-      "genre_label": "🌿 環境・気候",
-      "title_ja": "How the Trump administration’s climate math doesn’t add up"
-    },
-    {
-      "title": "The skylines of the future will be made of wood",
-      "url": "https://grist.org/buildings/the-skylines-of-the-future-will-be-made-of-wood/",
-      "source": "Grist",
-      "published": "Fri, 10 Apr 2026 08:30:00 +0000",
-      "description": "Laminated timber is more environmentally friendly than steel, and perfectly safe for constructing tall buildings.",
-      "genre": "environment",
-      "genre_label": "🌿 環境・気候",
-      "title_ja": "The skylines of the future will be made of wood"
-    },
-    {
       "title": "DeBriefed 17 April 2026: Fossil-fuel power slumps &#124; ‘Super’ El Niño warning &#124; Afghanistan’s climate struggle",
       "url": "https://www.carbonbrief.org/debriefed-17-april-2026-fossil-fuel-power-slumps-super-el-nino-warning-afghanistans-climate-struggle/",
       "source": "Carbon Brief",
@@ -6181,76 +5471,6 @@
       "genre": "environment",
       "genre_label": "🌿 環境・気候",
       "title_ja": "China Briefing 16 April 2026: Billions for grid &#124; Petrochemical plan &#124; China’s high-seas bid"
-    },
-    {
-      "title": "Marine heatwaves ‘nearly double’ the economic damage caused by tropical cyclones",
-      "url": "https://www.carbonbrief.org/marine-heatwaves-nearly-double-the-economic-damage-caused-by-tropical-cyclones/",
-      "source": "Carbon Brief",
-      "published": "Fri, 10 Apr 2026 18:00:00 +0000",
-      "description": "Tropical cyclones that rapidly intensify when passing over marine heatwaves can become “supercharged”, increasing the... The post Marine heatwaves ‘nearly double’ the economic damage caused by tropica",
-      "genre": "environment",
-      "genre_label": "🌿 環境・気候",
-      "title_ja": "Marine heatwaves ‘nearly double’ the economic damage caused by tropical cyclones"
-    },
-    {
-      "title": "DeBriefed 10 April 2026: Worst energy crisis ‘ever’ &#124; India withdraws COP33 bid &#124; Drag artists and climate change",
-      "url": "https://www.carbonbrief.org/debriefed-10-april-2026-worst-energy-crisis-ever-india-withdraws-cop33-bid-drag-artists-and-climate-change/",
-      "source": "Carbon Brief",
-      "published": "Fri, 10 Apr 2026 14:10:54 +0000",
-      "description": "Welcome to Carbon Brief’s DeBriefed.&#160;An essential guide to the week's key developments relating to climate... The post DeBriefed 10 April 2026: Worst energy crisis ‘ever’ | India withdraws COP33 ",
-      "genre": "environment",
-      "genre_label": "🌿 環境・気候",
-      "title_ja": "DeBriefed 10 April 2026: Worst energy crisis ‘ever’ &#124; India withdraws COP33 bid &#124; Drag artists and climate change"
-    },
-    {
-      "title": "Iran war analysis: How 60 nations have responded to the global energy crisis",
-      "url": "https://www.carbonbrief.org/iran-war-analysis-how-60-nations-have-responded-to-the-global-energy-crisis/",
-      "source": "Carbon Brief",
-      "published": "Wed, 08 Apr 2026 14:55:37 +0000",
-      "description": "One month into the US and Israel’s war on Iran, at least 60 countries have... The post Iran war analysis: How 60 nations have responded to the global energy crisis appeared first on Carbon Brief.",
-      "genre": "environment",
-      "genre_label": "🌿 環境・気候",
-      "title_ja": "Iran war analysis: How 60 nations have responded to the global energy crisis"
-    },
-    {
-      "title": "Cropped 8 April 2026: Iran war drives up food prices &#124; Two nature talks conclude &#124; Return of UK’s tallest bird",
-      "url": "https://www.carbonbrief.org/cropped-8-april-2026-iran-war-drives-up-food-prices-two-nature-talks-conclude-return-of-uks-tallest-bird/",
-      "source": "Carbon Brief",
-      "published": "Wed, 08 Apr 2026 13:59:06 +0000",
-      "description": "We handpick and explain the most important stories at the intersection of climate, land, food... The post Cropped 8 April 2026: Iran war drives up food prices | Two nature talks conclude | Return of U",
-      "genre": "environment",
-      "genre_label": "🌿 環境・気候",
-      "title_ja": "Cropped 8 April 2026: Iran war drives up food prices &#124; Two nature talks conclude &#124; Return of UK’s tallest bird"
-    },
-    {
-      "title": "Analysis: How Chinese media is covering the Iran energy crisis",
-      "url": "https://www.carbonbrief.org/analysis-how-chinese-media-is-covering-the-iran-energy-crisis/",
-      "source": "Carbon Brief",
-      "published": "Tue, 07 Apr 2026 13:56:48 +0000",
-      "description": "As the closure of the Strait of Hormuz wreaks havoc on fossil-fuel supplies across the... The post Analysis: How Chinese media is covering the Iran energy crisis appeared first on Carbon Brief.",
-      "genre": "environment",
-      "genre_label": "🌿 環境・気候",
-      "title_ja": "Analysis: How Chinese media is covering the Iran energy crisis"
-    },
-    {
-      "title": "Introducing Carbon Brief's 2026 cohort of contributing editors",
-      "url": "https://www.carbonbrief.org/introducing-carbon-briefs-2026-cohort-of-contributing-editors/",
-      "source": "Carbon Brief",
-      "published": "Tue, 07 Apr 2026 09:00:00 +0000",
-      "description": "Carbon Brief’s editorial team is supported by an international group of academics, each specialising in... The post Introducing Carbon Brief's 2026 cohort of contributing editors appeared first on Car",
-      "genre": "environment",
-      "genre_label": "🌿 環境・気候",
-      "title_ja": "Introducing Carbon Brief's 2026 cohort of contributing editors"
-    },
-    {
-      "title": "DeBriefed 2 April 2026: Countries ‘revive’ energy-crisis measures &#124; Record UK renewables &#124; Plug-in solar savings",
-      "url": "https://www.carbonbrief.org/debriefed-2-april-2026/",
-      "source": "Carbon Brief",
-      "published": "Thu, 02 Apr 2026 15:32:06 +0000",
-      "description": "Welcome to Carbon Brief’s DeBriefed.&#160;An essential guide to the week's key developments relating to climate... The post DeBriefed 2 April 2026: Countries ‘revive’ energy-crisis measures | Record U",
-      "genre": "environment",
-      "genre_label": "🌿 環境・気候",
-      "title_ja": "DeBriefed 2 April 2026: Countries ‘revive’ energy-crisis measures &#124; Record UK renewables &#124; Plug-in solar savings"
     },
     {
       "title": "Illinois Weighs Early Warning System For Pesticide Spraying Near Parks, Schools",
@@ -8213,6 +7433,16 @@
       "title_ja": "ドジャース 大谷翔平 最終打席でヒット 連続出塁は50試合に"
     },
     {
+      "title": "【動画】Pickup NEWS（4月19日）",
+      "url": "http://www3.nhk.or.jp/news/html/20260419/k10015102661000.html",
+      "source": "NHK政治",
+      "published": "Sun, 19 Apr 2026 13:52:49 +0900",
+      "description": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。（データ放送では動画をご覧いただけません）",
+      "genre": "japan",
+      "genre_label": "🇯🇵 日本",
+      "title_ja": "【動画】Pickup NEWS（4月19日）"
+    },
+    {
       "title": "JR国立駅 開業100年記念の催しでにぎわう 東京",
       "url": "http://www3.nhk.or.jp/news/html/20260419/k10015102901000.html",
       "source": "NHK政治",
@@ -8231,16 +7461,6 @@
       "genre": "japan",
       "genre_label": "🇯🇵 日本",
       "title_ja": "北朝鮮 日本海へ短距離弾道ミサイル数発発射 韓国軍発表"
-    },
-    {
-      "title": "【動画】Pickup NEWS（4月19日）",
-      "url": "http://www3.nhk.or.jp/news/html/20260419/k10015102661000.html",
-      "source": "NHK政治",
-      "published": "Sun, 19 Apr 2026 06:51:13 +0900",
-      "description": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。（データ放送では動画をご覧いただけません）",
-      "genre": "japan",
-      "genre_label": "🇯🇵 日本",
-      "title_ja": "【動画】Pickup NEWS（4月19日）"
     },
     {
       "title": "鎌倉時代の日記が手がかり 当時の太陽活動の痕跡が明らかに",
@@ -8743,6 +7963,16 @@
       "title_ja": "鈴木農相 “加工・米粉など主食用以外のコメ生産促す”"
     },
     {
+      "title": "バスケットボールWNBA 田中こころは来季の契約に向け交渉",
+      "url": "http://www3.nhk.or.jp/news/html/20260419/k10015102941000.html",
+      "source": "NHK国際",
+      "published": "Sun, 19 Apr 2026 13:57:57 +0900",
+      "description": "バスケットボールのアメリカ女子プロリーグ、WNBAのドラフト会議でゴールデンステート・ヴァルキリーズから指名を受けたENEOS所属の田中こころ選手について、ヴァルキリーズは、来シーズンの契約に向けて交渉を進めていることを明らかにしました。",
+      "genre": "japan",
+      "genre_label": "🇯🇵 日本",
+      "title_ja": "バスケットボールWNBA 田中こころは来季の契約に向け交渉"
+    },
+    {
       "title": "ブルージェイズ 岡本和真 貴重な同点打もチームは4連敗",
       "url": "http://www3.nhk.or.jp/news/html/20260419/k10015102921000.html",
       "source": "NHK国際",
@@ -8923,24 +8153,54 @@
       "title_ja": "体操 全日本選手権 男子予選 6連覇目指す橋本大輝がトップに"
     },
     {
-      "title": "【プロ野球結果】オリックス 4連勝でソフトバンクと首位に並ぶ",
-      "url": "http://www3.nhk.or.jp/news/html/20260417/k10015102021000.html",
-      "source": "NHK国際",
-      "published": "Fri, 17 Apr 2026 23:46:44 +0900",
-      "description": "プロ野球は6試合が行われ、パ・リーグはオリックスが今シーズン初の4連勝でソフトバンクと首位に並びました。セ・リーグは首位、ヤクルトの連勝が4で止まりました。",
-      "genre": "japan",
-      "genre_label": "🇯🇵 日本",
-      "title_ja": "【プロ野球結果】オリックス 4連勝でソフトバンクと首位に並ぶ"
-    },
-    {
-      "title": "Brunost: The Nynorsk Programming Language",
-      "url": "https://lindbakk.com/blog/introducing-brunost",
-      "source": "HN Dev",
-      "published": "Mon, 13 Apr 2026 18:49:55 +0000",
-      "description": "Article URL: https://lindbakk.com/blog/introducing-brunost Comments URL: https://news.ycombinator.com/item?id=47756320 Points: 138 # Comments: 72",
+      "title": "Reversing using C",
+      "url": "https://dev.to/maximilianfeldthusen/reversing-using-c-21bd",
+      "source": "DEV.to",
+      "published": "Sun, 19 Apr 2026 04:56:36 +0000",
+      "description": "<p>A simple way to demonstrate common reversing tricks using C code:</p> <p>1.XOR cipher execution <br> simple repeating-key XOR <br> extremely common in obfuscation </p> <p>2.Known-plaintext attack <",
       "genre": "dev_tools",
       "genre_label": "💻 開発・ツール",
-      "title_ja": "Brunost: The Nynorsk Programming Language"
+      "title_ja": "Reversing using C"
+    },
+    {
+      "title": "Tired of Claude Code Ignoring Your CLAUDE.md? I Built claudemd-guard",
+      "url": "https://dev.to/hirochiba/tired-of-claude-code-ignoring-your-claudemd-i-built-claudemd-guard-34k5",
+      "source": "DEV.to",
+      "published": "Sun, 19 Apr 2026 04:55:13 +0000",
+      "description": "<p>Have you ever experienced a situation with Claude Code where the rules you defined in CLAUDE.md are followed initially, but start to be ignored toward the end of a long session?</p> <p>I was partic",
+      "genre": "dev_tools",
+      "genre_label": "💻 開発・ツール",
+      "title_ja": "Tired of Claude Code Ignoring Your CLAUDE.md? I Built claudemd-guard"
+    },
+    {
+      "title": "Kubuntu vs KDE Neon: A Technical Deep Dive",
+      "url": "https://dev.to/rosgluk/kubuntu-vs-kde-neon-a-technical-deep-dive-48dm",
+      "source": "DEV.to",
+      "published": "Sun, 19 Apr 2026 04:48:01 +0000",
+      "description": "<p>For KDE Plasma fans, two Linux distributions frequently come up in discussion:<br> <a href=\"https://www.glukhov.org/developer-tools/comparisons/kubuntu-vs-kde-neon/\" rel=\"noopener noreferrer\"><stro",
+      "genre": "dev_tools",
+      "genre_label": "💻 開発・ツール",
+      "title_ja": "Kubuntu vs KDE Neon: A Technical Deep Dive"
+    },
+    {
+      "title": "Moving OpenCode Desktop to Electron",
+      "url": "https://dev.to/brendonovich/moving-opencode-desktop-to-electron-4hip",
+      "source": "DEV.to",
+      "published": "Sun, 19 Apr 2026 04:47:31 +0000",
+      "description": "<p>I recently announced that we’ve rebuilt OpenCode Desktop on top of Electron and will soon stop releasing the Tauri version. This wasn’t a decision we made lightly, and it has nothing to do with eit",
+      "genre": "dev_tools",
+      "genre_label": "💻 開発・ツール",
+      "title_ja": "Moving OpenCode Desktop to Electron"
+    },
+    {
+      "title": "🚀 Crack Any Pattern Question in Interviews - The Ultimate Logic Guide",
+      "url": "https://dev.to/chiragx309/crack-any-pattern-question-in-interviews-the-ultimate-logic-guide-4i8",
+      "source": "DEV.to",
+      "published": "Sun, 19 Apr 2026 04:38:32 +0000",
+      "description": "<blockquote> <p>If pattern questions still confuse you in interviews, it’s not because they’re hard - it’s because you're approaching them wrong.</p> </blockquote> <p>If you’re preparing for coding in",
+      "genre": "dev_tools",
+      "genre_label": "💻 開発・ツール",
+      "title_ja": "🚀 Crack Any Pattern Question in Interviews - The Ultimate Logic Guide"
     },
     {
       "title": "Clinic-CoPilot",
@@ -9013,56 +8273,6 @@
       "title_ja": "The Future is Friendly Code For AI and Humans"
     },
     {
-      "title": "Dealmind",
-      "url": "https://dev.to/billa_shiva_bd58271c736e0/dealmind-g1p",
-      "source": "DEV.to",
-      "published": "Sun, 19 Apr 2026 04:21:36 +0000",
-      "description": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi5yj4jedy5d0t78yj",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Dealmind"
-    },
-    {
-      "title": "Kiwi-chan's Slow & Steady Progress - Devlog #7",
-      "url": "https://dev.to/kiwi_tech/kiwi-chans-slow-steady-progress-devlog-7-1nei",
-      "source": "DEV.to",
-      "published": "Sun, 19 Apr 2026 04:20:54 +0000",
-      "description": "<p>Alright folks, another four hours down in the Minecraft world with Kiwi-chan! It's been a bit of a bumpy ride, honestly. Lots of small failures, but that's the nature of the beast (and LLMs, appare",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Kiwi-chan's Slow & Steady Progress - Devlog #7"
-    },
-    {
-      "title": "I Was Tired of Uploading PDFs… So I Built My Own Tool",
-      "url": "https://dev.to/nocode_studio/i-was-tired-of-uploading-pdfs-so-i-built-my-own-tool-6jk",
-      "source": "DEV.to",
-      "published": "Sun, 19 Apr 2026 04:16:25 +0000",
-      "description": "<p>I didn't start by writing code. I started with a simple frustration. Every time I needed to split a PDF, the process felt wrong.</p> <p>Upload file → wait → download → hope nothing breaks.</p> <p>A",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "I Was Tired of Uploading PDFs… So I Built My Own Tool"
-    },
-    {
-      "title": "LitterLoot: Healing the Earth, One Micro-Bounty at a Time (AI + Web3)",
-      "url": "https://dev.to/sherman95/litterloot-healing-the-earth-one-micro-bounty-at-a-time-ai-web3-334d",
-      "source": "DEV.to",
-      "published": "Sun, 19 Apr 2026 04:13:57 +0000",
-      "description": "<p><em>This is a submission for <a href=\"https://dev.to/challenges/weekend-2026-04-16\">Weekend Challenge: Earth Day Edition</a></em></p> <p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Chei",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "LitterLoot: Healing the Earth, One Micro-Bounty at a Time (AI + Web3)"
-    },
-    {
-      "title": "Location as the Anchor: Mapping Species, Geology, UFOs, and Bigfoot to 105,000 Coordinates",
-      "url": "https://dev.to/velk/location-as-the-anchor-mapping-species-geology-ufos-and-bigfoot-to-105000-coordinates-2o4f",
-      "source": "DEV.to",
-      "published": "Sun, 19 Apr 2026 04:13:10 +0000",
-      "description": "<p><em>Part 2 of 5. <a href=\"https://dev.to/velk/16gb-of-ram-12gb-of-json-and-one-very-loud-fan-63i\">Part 1 covered the RAM crashes and data ingestion nightmare.</a> This part is about what happens af",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Location as the Anchor: Mapping Species, Geology, UFOs, and Bigfoot to 105,000 Coordinates"
-    },
-    {
       "title": "No country left behind with sovereign AI",
       "url": "https://stackoverflow.blog/2026/04/17/no-country-left-behind-with-sovereign-ai/",
       "source": "Stack Overflow Blog",
@@ -9101,366 +8311,6 @@
       "genre": "dev_tools",
       "genre_label": "💻 開発・ツール",
       "title_ja": "Who needs VCs when you have friends like these?"
-    },
-    {
-      "title": "The messy truth of your AI strategies",
-      "url": "https://stackoverflow.blog/2026/04/10/the-messy-truth-of-your-ai-strategies/",
-      "source": "Stack Overflow Blog",
-      "published": "Fri, 10 Apr 2026 07:40:00 GMT",
-      "description": "Ryan welcomes Hema Raghavan, co-founder and head of engineering at Kumo.ai, to dive into all the messy stuff that comes with implementing AI, from pipeline sprawl to shadow AI.",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "The messy truth of your AI strategies"
-    },
-    {
-      "title": "Gen Z needs a knowledge base (and so do you)",
-      "url": "https://stackoverflow.blog/2026/04/09/gen-z-needs-a-knowledge-base-and-so-do-you/",
-      "source": "Stack Overflow Blog",
-      "published": "Thu, 09 Apr 2026 16:00:00 GMT",
-      "description": "AI tool use is inescapable...especially if you&#x27;re a young person trying to get an edge in an increasingly difficult job market. But cognitive offloading is dangerous, no matter what age you are. ",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Gen Z needs a knowledge base (and so do you)"
-    },
-    {
-      "title": "He designed C++ to solve your code problems",
-      "url": "https://stackoverflow.blog/2026/04/07/he-designed-c-to-solve-your-code-problems/",
-      "source": "Stack Overflow Blog",
-      "published": "Tue, 07 Apr 2026 07:40:00 GMT",
-      "description": "Ryan welcomes Bjarne Stroustrup, designer of C++ and professor at Columbia, to the show to dive into all things C++, from its history to where it&#x27;s going today.",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "He designed C++ to solve your code problems"
-    },
-    {
-      "title": "Seizing the means of messenger production",
-      "url": "https://stackoverflow.blog/2026/04/03/seizing-the-means-of-messenger-production/",
-      "source": "Stack Overflow Blog",
-      "published": "Fri, 03 Apr 2026 07:40:00 GMT",
-      "description": "Ryan sits down with Galen Wolfe-Pauly, CEO of Tlon, to chat about calm computing and how humans can take back ownership of their data and digital world.",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Seizing the means of messenger production"
-    },
-    {
-      "title": "What the AI trust gap means for enterprise SaaS",
-      "url": "https://stackoverflow.blog/2026/04/02/what-the-ai-trust-gap-means-for-enterprise-saas/",
-      "source": "Stack Overflow Blog",
-      "published": "Thu, 02 Apr 2026 13:00:00 GMT",
-      "description": "Adoption and trust are moving in diametrically opposed directions, and that gap has real implications for organizations deciding how to spend money on software.",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "What the AI trust gap means for enterprise SaaS"
-    },
-    {
-      "title": "How can you test your code when you don’t know what’s in it?",
-      "url": "https://stackoverflow.blog/2026/03/31/how-can-you-test-your-code-when-you-don-t-know-what-s-in-it/",
-      "source": "Stack Overflow Blog",
-      "published": "Tue, 31 Mar 2026 07:40:00 GMT",
-      "description": "Ryan hosts SmartBear’s VP of AI and Architecture Fitz Nowlan to explore how we’re moving away from old assumptions about software development, the challenges of testing MCP servers as LLM-driven agent",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "How can you test your code when you don’t know what’s in it?"
-    },
-    {
-      "title": "Prevent agentic identity theft",
-      "url": "https://stackoverflow.blog/2026/03/27/prevent-agentic-identity-theft/",
-      "source": "Stack Overflow Blog",
-      "published": "Fri, 27 Mar 2026 07:40:00 GMT",
-      "description": "Ryan is joined by Nancy Wang, CTO of 1Password, to discuss the security challenges local agents present, how enterprises can create robust governance of credentials through zero-knowledge architecture",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Prevent agentic identity theft"
-    },
-    {
-      "title": "Building shared coding guidelines for AI (and people too)",
-      "url": "https://stackoverflow.blog/2026/03/26/coding-guidelines-for-ai-agents-and-people-too/",
-      "source": "Stack Overflow Blog",
-      "published": "Thu, 26 Mar 2026 14:00:00 GMT",
-      "description": "Coding guidelines and standards for agents need to be a little different—more explicit, demonstrative of patterns, and obvious.",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Building shared coding guidelines for AI (and people too)"
-    },
-    {
-      "title": "Multi-stage attacks are the Final Fantasy bosses of security",
-      "url": "https://stackoverflow.blog/2026/03/24/multi-stage-attacks-are-the-final-fantasy-bosses-of-security/",
-      "source": "Stack Overflow Blog",
-      "published": "Tue, 24 Mar 2026 07:40:00 GMT",
-      "description": "Ryan welcomes Gee Rittenhouse, VP of Security at AWS, to the show to discuss the complexities of multi-stage attacks in cybersecurity and how these attacks unfold, the challenges in detecting them, an",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Multi-stage attacks are the Final Fantasy bosses of security"
-    },
-    {
-      "title": "After all the hype, was 2025 really the year of AI agents?",
-      "url": "https://stackoverflow.blog/2026/03/20/was-2025-really-the-year-of-ai-agents/",
-      "source": "Stack Overflow Blog",
-      "published": "Fri, 20 Mar 2026 07:40:00 GMT",
-      "description": "Ryan is joined by Stefan Weitz, CEO and co-founder of the HumanX Conference, for a conversation on how AI has evolved in the last year.",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "After all the hype, was 2025 really the year of AI agents?"
-    },
-    {
-      "title": "AI is becoming a second brain at the expense of your first one",
-      "url": "https://stackoverflow.blog/2026/03/19/ai-is-becoming-a-second-brain-at-the-expense-of-your-first-one/",
-      "source": "Stack Overflow Blog",
-      "published": "Thu, 19 Mar 2026 14:01:58 GMT",
-      "description": "The risk isn’t just that we’ll get lazy and become lousy at critical thinking; the risk is that we’ll outsource our judgement and lose the ability to make qualitative, moral, and interpersonal judgmen",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "AI is becoming a second brain at the expense of your first one"
-    },
-    {
-      "title": "Building a global engineering team (plus AI agents) with Netlify",
-      "url": "https://stackoverflow.blog/2026/03/19/building-a-global-engineering-team-netlify/",
-      "source": "Stack Overflow Blog",
-      "published": "Thu, 19 Mar 2026 07:40:00 GMT",
-      "description": "Dana Lawson, CTO of Netlify, shares her insights on leading a lean, globally distributed engineering team that powers 5% of the internet.",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Building a global engineering team (plus AI agents) with Netlify"
-    },
-    {
-      "title": "Keeping the lights on for open source",
-      "url": "https://stackoverflow.blog/2026/03/17/keeping-the-lights-on-for-open-source/",
-      "source": "Stack Overflow Blog",
-      "published": "Tue, 17 Mar 2026 16:00:00 GMT",
-      "description": "Ryan sits down with Chainguard CEO Dan Lorenc to chat about how his team is keeping the foundation of the internet—open source projects—alive by forking archived but widely-used repos to provide secur",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Keeping the lights on for open source"
-    },
-    {
-      "title": "Domain expertise still wanted: the latest trends in AI-assisted knowledge for developers",
-      "url": "https://stackoverflow.blog/2026/03/16/domain-expertise-still-wanted-the-latest-trends-in-ai/",
-      "source": "Stack Overflow Blog",
-      "published": "Mon, 16 Mar 2026 14:00:00 GMT",
-      "description": "In February, we surveyed our users with research designed in partnership with OpenAI and found out that more developers than ever are using AI at work to learn, they are using other traditional online",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Domain expertise still wanted: the latest trends in AI-assisted knowledge for developers"
-    },
-    {
-      "title": "Open source for awkward robots",
-      "url": "https://stackoverflow.blog/2026/03/13/open-source-for-awkward-robots/",
-      "source": "Stack Overflow Blog",
-      "published": "Fri, 13 Mar 2026 07:40:00 GMT",
-      "description": "Ryan is joined by Jan Liphardt, CEO and co-founder of OpenMind, to chat about the rapidly evolving world of humanoid robotics and what it means for humans, why OpenMind is building an open-source oper",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Open source for awkward robots"
-    },
-    {
-      "title": "The context problem: Why enterprise AI needs more than foundation models",
-      "url": "https://stackoverflow.blog/2026/03/12/enterprise-ai-needs-more-than-foundation-models/",
-      "source": "Stack Overflow Blog",
-      "published": "Thu, 12 Mar 2026 13:00:00 GMT",
-      "description": "The difference between AI that impresses people in demos and AI that drives production value is context.",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "The context problem: Why enterprise AI needs more than foundation models"
-    },
-    {
-      "title": "How To Improve UX In Legacy Systems",
-      "url": "https://smashingmagazine.com/2026/04/legacy-systems/",
-      "source": "Smashing Magazine",
-      "published": "Fri, 10 Apr 2026 13:00:00 GMT",
-      "description": "Practical guidelines for driving UX impact in organizations with legacy systems and broken processes. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vita",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "How To Improve UX In Legacy Systems"
-    },
-    {
-      "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
-      "url": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
-      "source": "Smashing Magazine",
-      "published": "Tue, 07 Apr 2026 10:00:00 GMT",
-      "description": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco exp",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)"
-    },
-    {
-      "title": "A Practical Guide To Design Principles",
-      "url": "https://smashingmagazine.com/2026/04/practical-guide-design-principles/",
-      "source": "Smashing Magazine",
-      "published": "Wed, 01 Apr 2026 10:00:00 GMT",
-      "description": "Design principles with references, examples, and methods for quick look-up. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "A Practical Guide To Design Principles"
-    },
-    {
-      "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
-      "url": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
-      "source": "Smashing Magazine",
-      "published": "Tue, 31 Mar 2026 11:00:00 GMT",
-      "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventu",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)"
-    },
-    {
-      "title": "The Site-Search Paradox: Why The Big Box Always Wins",
-      "url": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
-      "source": "Smashing Magazine",
-      "published": "Thu, 26 Mar 2026 10:00:00 GMT",
-      "description": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "The Site-Search Paradox: Why The Big Box Always Wins"
-    },
-    {
-      "title": "Testing Font Scaling For Accessibility With Figma Variables",
-      "url": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
-      "source": "Smashing Magazine",
-      "published": "Tue, 24 Mar 2026 13:00:00 GMT",
-      "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, t",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Testing Font Scaling For Accessibility With Figma Variables"
-    },
-    {
-      "title": "Modal vs. Separate Page: UX Decision Tree",
-      "url": "https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/",
-      "source": "Smashing Magazine",
-      "published": "Thu, 19 Mar 2026 15:00:00 GMT",
-      "description": "How to choose between modals and pages, when to avoid modals, and how to determine the right level of interruption or navigation. Brought to you by Smart Interface Design Patterns, a **friendly video ",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Modal vs. Separate Page: UX Decision Tree"
-    },
-    {
-      "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
-      "url": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
-      "source": "Smashing Magazine",
-      "published": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow"
-    },
-    {
-      "title": "Moving From Moment.js To The JS Temporal API",
-      "url": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
-      "source": "Smashing Magazine",
-      "published": "Fri, 13 Mar 2026 13:00:00 GMT",
-      "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitatio",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Moving From Moment.js To The JS Temporal API"
-    },
-    {
-      "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
-      "url": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
-      "source": "Smashing Magazine",
-      "published": "Thu, 12 Mar 2026 10:00:00 GMT",
-      "description": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-sh",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI"
-    },
-    {
-      "title": "Building Dynamic Forms In React And Next.js",
-      "url": "https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
-      "source": "Smashing Magazine",
-      "published": "Tue, 10 Mar 2026 13:00:00 GMT",
-      "description": "Some forms stay UI, while others quietly become rule engines. Here’s why these two different approaches exist and how to choose between them.",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Building Dynamic Forms In React And Next.js"
-    },
-    {
-      "title": "Persuasive Design: Ten Years Later",
-      "url": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
-      "source": "Smashing Magazine",
-      "published": "Mon, 09 Mar 2026 11:00:00 GMT",
-      "description": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamif",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Persuasive Design: Ten Years Later"
-    },
-    {
-      "title": "Human Strategy In An AI-Accelerated Workflow",
-      "url": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
-      "source": "Smashing Magazine",
-      "published": "Fri, 06 Mar 2026 08:00:00 GMT",
-      "description": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has nev",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Human Strategy In An AI-Accelerated Workflow"
-    },
-    {
-      "title": "Now Shipping: Accessible UX Research, A New Smashing Book By Michele Williams",
-      "url": "https://smashingmagazine.com/2026/03/accessible-ux-research-release/",
-      "source": "Smashing Magazine",
-      "published": "Tue, 03 Mar 2026 15:00:00 GMT",
-      "description": "Our newest Smashing Book, “Accessible UX Research” by Michele Williams, is finally shipping worldwide — and we couldn’t be happier! This book is about research, but you’ll also learn about assistive t",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Now Shipping: Accessible UX Research, A New Smashing Book By Michele Williams"
-    },
-    {
-      "title": "Getting Started With The Popover API",
-      "url": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
-      "source": "Smashing Magazine",
-      "published": "Mon, 02 Mar 2026 10:00:00 GMT",
-      "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actual",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Getting Started With The Popover API"
-    },
-    {
-      "title": "Fresh Energy In March (2026 Wallpapers Edition)",
-      "url": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
-      "source": "Smashing Magazine",
-      "published": "Sat, 28 Feb 2026 09:00:00 GMT",
-      "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opport",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Fresh Energy In March (2026 Wallpapers Edition)"
-    },
-    {
-      "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
-      "url": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
-      "source": "Smashing Magazine",
-      "published": "Thu, 26 Feb 2026 11:00:00 GMT",
-      "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski,",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱"
-    },
-    {
-      "title": "A Designer’s Guide To Eco-Friendly Interfaces",
-      "url": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
-      "source": "Smashing Magazine",
-      "published": "Mon, 23 Feb 2026 10:00:00 GMT",
-      "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. I",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "A Designer’s Guide To Eco-Friendly Interfaces"
-    },
-    {
-      "title": "Designing A Streak System: The UX And Psychology Of Streaks",
-      "url": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
-      "source": "Smashing Magazine",
-      "published": "Wed, 18 Feb 2026 15:00:00 GMT",
-      "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Designing A Streak System: The UX And Psychology Of Streaks"
-    },
-    {
-      "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
-      "url": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
-      "source": "Smashing Magazine",
-      "published": "Fri, 13 Feb 2026 15:00:00 GMT",
-      "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-fir",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps"
     },
     {
       "title": "Anthropic, OpenAI, Google, and Microsoft agree that the harness is the product. They disagree on the price.",
@@ -9811,208 +8661,8 @@
       "genre": "dev_tools",
       "genre_label": "💻 開発・ツール",
       "title_ja": "Presentation: From VR to Flat Screens: Bridging the Input and Immersion Gap"
-    },
-    {
-      "title": "Astral has been acquired by OpenAI",
-      "url": "https://changelog.com/news/184",
-      "source": "Changelog",
-      "published": "Fri, 27 Mar 2026 20:00:00 +0000",
-      "description": "Astral is joining OpenAI, which says a lot about where the center of gravity is moving for developer tools, LiteLLM got hit by a nasty supply-chain attack, and OpenCode blew up as the latest serious o",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Astral has been acquired by OpenAI"
-    },
-    {
-      "title": "From Tailnet to platform",
-      "url": "https://changelog.com/podcast/679",
-      "source": "Changelog",
-      "published": "Wed, 11 Mar 2026 20:00:00 +0000",
-      "description": "Adam talks with Tailscale co-founder and Chief Strategy Officer David Carney about where Tailscale is headed next: TSIDP, TSNet, multiple tailnets, and Aperture. They get into clickless auth (via TSID",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "From Tailnet to platform"
-    },
-    {
-      "title": "Big change brings big change",
-      "url": "https://changelog.com/news/183",
-      "source": "Changelog",
-      "published": "Tue, 10 Mar 2026 20:00:00 +0000",
-      "description": "This week&apos;s been wild — Iran bombed AWS data centers to take down Claude, OpenAI dropped GPT-5.4 (and it&apos;s seriously good for coding), and living brain cells are literally playing DOOM. We&a",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Big change brings big change"
-    },
-    {
-      "title": "Finale & Friends",
-      "url": "https://changelog.com/friends/129",
-      "source": "Changelog",
-      "published": "Mon, 02 Mar 2026 21:00:00 +0000",
-      "description": "Adam and Jerod get into the news, Jerod officially retires from the pod (and Changelog), plus a bonus for our Changelog++ subs!",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Finale & Friends"
-    },
-    {
-      "title": "Opus 4.5 changed everything",
-      "url": "https://changelog.com/podcast/678",
-      "source": "Changelog",
-      "published": "Fri, 27 Feb 2026 22:00:00 +0000",
-      "description": "Burke Holland works on GitHub Copilot by day and codes with his AI agents always. Early January, Burke posted about how Opus 4.5 changed everything. We were all still buzzing from the holiday-season 2",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Opus 4.5 changed everything"
-    },
-    {
-      "title": "The mythical agent-month",
-      "url": "https://changelog.com/news/182",
-      "source": "Changelog",
-      "published": "Mon, 23 Feb 2026 20:45:00 +0000",
-      "description": "Wes McKinney on the mythical agent-month, install Peon Ping to employ a Peon today, Andreas Kling explains why Ladybird is adopting Rust, Cloudflare has a new MCP server that&apos;s quite efficient, a",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "The mythical agent-month"
-    },
-    {
-      "title": "Selling SDKs in the era of many Claudes",
-      "url": "https://changelog.com/podcast/677",
-      "source": "Changelog",
-      "published": "Thu, 19 Feb 2026 15:30:00 +0000",
-      "description": "Steve Ruiz joins us for a deep-dive on tldraw (a very good free whiteboard) and the business he&apos;s built selling SDKs that help others build very good whiteboards (and more) with tldraw&apos;s hig",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Selling SDKs in the era of many Claudes"
-    },
-    {
-      "title": "All the Claw things",
-      "url": "https://changelog.com/news/181",
-      "source": "Changelog",
-      "published": "Mon, 16 Feb 2026 19:30:00 +0000",
-      "description": "Peter Steinberger joins OpenAI, ZeroClaw is \"claw done right\", MimiClaw runs on a $5 chip, Steve Yegge on managing the AI Vampire, and the day the telnet died.",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "All the Claw things"
-    },
-    {
-      "title": "Han shot first",
-      "url": "https://changelog.com/friends/128",
-      "source": "Changelog",
-      "published": "Fri, 13 Feb 2026 21:00:00 +0000",
-      "description": "Our ol&apos; friend, Brett Cannon, is back to talk all things Python. But first! Star Wars, Machete Order, Lost, Babylon 5, Game of Thrones, Murderbot, Ted Lasso, Project Hail Mary, David Attenborough",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Han shot first"
-    },
-    {
-      "title": "Building the machine that builds the machine",
-      "url": "https://changelog.com/podcast/676",
-      "source": "Changelog",
-      "published": "Wed, 11 Feb 2026 20:30:00 +0000",
-      "description": "Paul Dix joins us to discuss the InfluxDB co-founder&apos;s journey adapting to an agentic world. Paul sent his AI coding agents on various real-world side quests and shares all his findings: what&apo",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Building the machine that builds the machine"
-    },
-    {
-      "title": "Vouch for an open source web of trust",
-      "url": "https://changelog.com/news/180",
-      "source": "Changelog",
-      "published": "Mon, 09 Feb 2026 19:00:00 +0000",
-      "description": "Mitchell Hashimoto&apos;s trust management system for open source, Nicholas Carlini has a team of Claudes build a C compiler, Stephan Schwab recounts the history of attempted developer replacement, Na",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Vouch for an open source web of trust"
-    },
-    {
-      "title": "It&apos;s a renaissance woman&apos;s world",
-      "url": "https://changelog.com/friends/127",
-      "source": "Changelog",
-      "published": "Fri, 06 Feb 2026 21:30:00 +0000",
-      "description": "Amal Hussein returns to tell us all about her new role at Istari, what life is like outside the web browser, how she&apos;s helping ambitious orgs in aerospace, what the SDLC looks like in 2026, and a",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "It&apos;s a renaissance woman&apos;s world"
-    },
-    {
-      "title": "Setting Docker Hardened Images free",
-      "url": "https://changelog.com/podcast/675",
-      "source": "Changelog",
-      "published": "Wed, 04 Feb 2026 20:00:00 +0000",
-      "description": "In May of 2025, Docker launched Hardened Images, a secure, minimal, production-ready set of images. In December, they made DHI freely available and open source to everyone who builds software. On this",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Setting Docker Hardened Images free"
-    },
-    {
-      "title": "The tech monoculture is finally breaking",
-      "url": "https://changelog.com/news/179",
-      "source": "Changelog",
-      "published": "Mon, 02 Feb 2026 20:30:00 +0000",
-      "description": "Jason Willems believes the tech monoculture is finally breaking, Don Ho shares some bad Notepad++ news, Tailscale&apos;s Avery Pennarun pens a great downtime apology, Milan Milanović explains why you ",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "The tech monoculture is finally breaking"
-    },
-    {
-      "title": "Natural born SaaS killers",
-      "url": "https://changelog.com/friends/126",
-      "source": "Changelog",
-      "published": "Fri, 30 Jan 2026 21:00:00 +0000",
-      "description": "We discuss the buzz around Clawdbot / MoltBot / OpenClaw, how app subscriptions are turning into weekend hacking projects, why SaaS stocks are crashing on Wall Street, and what it all means.",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Natural born SaaS killers"
-    },
-    {
-      "title": "Securing npm is table stakes",
-      "url": "https://changelog.com/podcast/674",
-      "source": "Changelog",
-      "published": "Thu, 29 Jan 2026 15:00:00 +0000",
-      "description": "As the creator and long-time maintainer of ESLint, Nicholas Zakas is well-positioned to criticize GitHub&apos;s recent response to npm&apos;s insecurity. He found the response insufficient, and has ot",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Securing npm is table stakes"
-    },
-    {
-      "title": "Clawdbot triggers a run on Mac Minis",
-      "url": "https://changelog.com/news/178",
-      "source": "Changelog",
-      "published": "Mon, 26 Jan 2026 20:00:00 +0000",
-      "description": "Clawdbot drives Mac Mini sales, Swizec Teller on the future of software engineering being SRE, Daniel Stenberg decided to end curl&apos;s bug bounty program, zerobrew takes some of the best ideas from",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Clawdbot triggers a run on Mac Minis"
-    },
-    {
-      "title": "The state of homelab tech (2026)",
-      "url": "https://changelog.com/friends/125",
-      "source": "Changelog",
-      "published": "Sat, 24 Jan 2026 20:00:00 +0000",
-      "description": "Techno Tim joins Adam to dive deep into the state of homelab&apos;ing in 2026. Hardware is scarce and expensive due to the AI gold rush, but software has never been better. From unleashing Claude on y",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "The state of homelab tech (2026)"
-    },
-    {
-      "title": "The era of the Small Giant",
-      "url": "https://changelog.com/podcast/673",
-      "source": "Changelog",
-      "published": "Thu, 22 Jan 2026 20:00:00 +0000",
-      "description": "Damien Tanner (founder of Pusher, now building Layercode) is back for a reunion 17 years in the making. Damien officially returns to The Changelog to discuss the seismic shift happening in software de",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "The era of the Small Giant"
-    },
-    {
-      "title": "Agent psychosis: are we going insane?",
-      "url": "https://changelog.com/news/177",
-      "source": "Changelog",
-      "published": "Mon, 19 Jan 2026 20:30:00 +0000",
-      "description": "Armin Ronacher thinks AI agent psychosis might be driving us insane, Dan Abramov explains how AT Protocol is a social filesystem, RepoBar keeps your GitHub work in view without opening a browser, Etha",
-      "genre": "dev_tools",
-      "genre_label": "💻 開発・ツール",
-      "title_ja": "Agent psychosis: are we going insane?"
     }
   ],
-  "translated_at": "2026-04-19T04:41:19.374121+00:00",
+  "translated_at": "2026-04-19T05:01:10.777390+00:00",
   "translation_cost_usd": 0.0
 }
